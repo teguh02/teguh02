@@ -1,11 +1,3 @@
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-
-<button data-toggle="collapse" data-target="#demo">Collapsible</button>
-
-<div id="demo" class="collapse">
-Lorem ipsum dolor text....
-</div>
-
 ### Profil Saya
 <table style="width: 100%">
 <tr>
