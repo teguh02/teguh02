@@ -1,7 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=teguh02)
-
-<hr>
-
 ### Profil Saya
 <table style="width: 100%">
 <tr>
@@ -63,3 +59,9 @@
 <li>Figma</li>
 <li>Canva</li>
 <ul>
+
+<hr>
+
+### My Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=teguh02)
