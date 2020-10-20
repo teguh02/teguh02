@@ -58,7 +58,7 @@
 <li>Sweet Alert</li>
 <li>Figma</li>
 <li>Canva</li>
-<ul>
+</ul>
 
 <hr>
 
