@@ -3,7 +3,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=teguh02)
 
 ### Profil Saya
-<table>
+<table style="width: 100%">
 <tr>
   <td>Nama </td>
   <td>Teguh Rijanandi </td>
@@ -17,5 +17,11 @@
   <tr>
   <td>Email </td>
   <td>teguhrijanandi02@gmail.com </td>
+ </tr>
+ 
+ 
+  <tr>
+  <td>Deskripsi SIngkat </td>
+  <td>Saya seorang fullstack developer dengan menggunakan laravel maupum framework buatan saya sendiri, bernama OFI PHP Framework sebagai backend, dan menggunakan jquery, vue js sebagai frontend</td>
  </tr>
 <table>
