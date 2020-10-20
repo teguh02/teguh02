@@ -49,4 +49,15 @@
 <li>Jquery Ajax</li>
 <li>Vue js</li>
 <li>Mysql</li>
+<li>Microsoft Office</li>
+<li>Rajaongkir</li>
+<li>Ipaymu Payment gateway</li>
+<li>Lks Web design Kabpuaten Banyumas Juara 1</li>
+<li>Lks Web Design Tingkat Provinsi Urutan 10</li>
+<li>Google Playstore console</li>
+<li>Build PHP Framework (OFI PHP Framework)</li>
+<li>SSH</li>
+<li>Sweet Alert</li>
+<li>Figma</li>
+<li>Canva</li>
 <ul>
