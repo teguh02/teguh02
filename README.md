@@ -1,6 +1,6 @@
-### Hi there I'm Teguh Rijanandi you can see my stats here 👋
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=teguh02)
+
+<hr>
 
 ### Profil Saya
 <table style="width: 100%">
@@ -25,6 +25,8 @@
   <td>Saya seorang fullstack developer dengan menggunakan laravel maupum framework buatan saya sendiri, bernama OFI PHP Framework sebagai backend, dan menggunakan jquery, vue js sebagai frontend</td>
  </tr>
 <table>
+  
+  <hr>
 
 ### Experience & Skill
 <ul>
