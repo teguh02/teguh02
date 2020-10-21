@@ -36,10 +36,10 @@
 <hr>
 
 ### Last Project
-<table style="width: 100%>
+<table style="width: 100%">
   <tr>     
     <td>
-      Nomor
+      No
     </td>
     <td>
       Judul
@@ -58,7 +58,7 @@
   </td>
   
   <td>
-    ITTP.Link merupakan shortener link official milik Institut Teknologi Telkom Purwokerto, ITTP.link dibangun menggunakan framework laravel versi 8. ITTp.link
+    ITTP.Link merupakan shortener link official milik Institut Teknologi Telkom Purwokerto, ITTP.link dibangun menggunakan framework laravel versi 8. ITTP.link
     bisa diakses melalui http://ittp.link
   </td>
   </tr>
