@@ -113,4 +113,4 @@
 <hr>
 
 ### My Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=teguh02)
+![Github stats](https://github-readme-stats.vercel.app/api?username=teguh02&show_icons=true&theme=dark)
