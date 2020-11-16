@@ -70,6 +70,18 @@
     <td>madatukar.link</td>
     <td>madatukar.link adalah Official URL Shortener Kementerian Perhubungan yang mengadaptasi ITTP.link, madatukar.link bisa diakses di https://madatukar.link/login</td>
   </tr>
+
+  <tr>
+    <td>3</td>
+    <td>inyonghost.com</td>
+    <td>inyonghost.com (atau Inyonghost Indonesia) merupakan sebuah perusahaan yang bergerak di bidang website dan hosting termurah se-Indonesia. Silahkan akses website resminya disini https://inyonghost.com</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>gtoc.store</td>
+    <td>gtoc.store merupakan sebuah website E-Commerce milik Gudang Tas Ori China, saya bangun website ini beserta infrastruktur API dan admin areanya, silahkan akses disini https://gtoc.store</td>
+  </tr>
 </table>
               
 <hr>
