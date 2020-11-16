@@ -82,6 +82,12 @@
     <td>gtoc.store</td>
     <td>gtoc.store merupakan sebuah website E-Commerce milik Gudang Tas Ori China, saya bangun website ini beserta infrastruktur API dan admin areanya, silahkan akses disini https://gtoc.store</td>
   </tr>
+
+  <tr>
+    <td>5</td>
+    <td>gudangtasorichina.com</td>
+    <td>gudangtasorichina.com merupakan sebuah website penjualan milik Gudang Tas Ori China, saya berkontribusi dalam hal pengingkatan SEO untuk website ini, silahkan kunjungi website resminya disini http://www.gudangtasorichina.com</td>
+  </tr>
 </table>
               
 <hr>
