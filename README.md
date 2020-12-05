@@ -88,6 +88,12 @@
     <td>gudangtasorichina.com</td>
     <td>gudangtasorichina.com merupakan sebuah website penjualan milik Gudang Tas Ori China, saya berkontribusi dalam hal pengingkatan SEO untuk website ini, silahkan kunjungi website resminya disini http://www.gudangtasorichina.com</td>
   </tr>
+  
+  <tr>
+    <td>6</td>
+    <td>ppsb.mahad-alfaruq.ponpes.id</td>
+    <td>ppsb.mahad-alfaruq.ponpes.id merupakan sebuah website pendaftaran calon santri milik pondok pesantren Ma'had Al-Faruq Karanglewas Kidul Purwokerto Barat, website pendaftaran calon santri tersebut bisa diakses disini http://ppsb.mahad-alfaruq.ponpes.id/</td>
+  </tr>
 </table>
               
 <hr>
