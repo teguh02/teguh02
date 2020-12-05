@@ -94,6 +94,12 @@
     <td>ppsb.mahad-alfaruq.ponpes.id</td>
     <td>ppsb.mahad-alfaruq.ponpes.id merupakan sebuah website pendaftaran calon santri milik pondok pesantren Ma'had Al-Faruq Karanglewas Kidul Purwokerto Barat, website pendaftaran calon santri tersebut bisa diakses disini http://ppsb.mahad-alfaruq.ponpes.id/</td>
   </tr>
+  
+  <tr>
+    <td>7</td>
+    <td>ofi/deteksinohpindonesia</td>
+    <td>ofi/deteksinohpindonesia merupakan sebuah package atau plugin php yang berguna untuk mendeteksi jenis operator berdasarkan nomor hp yang diinputkan, ofi/deteksinohpindonesia bisa diakses disini https://github.com/teguh02/deteksinohpindonesia</td>
+  </tr>
 </table>
               
 <hr>
