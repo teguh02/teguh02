@@ -102,9 +102,15 @@
   </tr>
   
   <tr>
-    <td>7</td>
+    <td>8</td>
     <td>ofi/mobilepulsa</td>
     <td>ofi/mobilepulsa merupakan sebuah package atau plugin php yang berguna supaya kita dapat dengan mudah mengkonsumsi API dari developer.mobilepulsa.net itu sendiri, ofi/mobilepulsa bisa diakses disini https://github.com/teguh02/mobilePulsanet-Sdk</td>
+  </tr>
+  
+  <tr>
+    <td>9</td>
+    <td>ofi/olazada</td>
+    <td>ofi/olazada merupakan sebuah package atau plugin php yang berguna supaya kita dapat dengan mudah mengkonsumsi API dari open.lazada.com itu sendiri, ofi/mobilepulsa bisa diakses disini https://github.com/teguh02/OLazada</td>
   </tr>
 </table>
               
