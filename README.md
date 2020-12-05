@@ -116,8 +116,8 @@
   
   <tr>
     <td>10</td>
-    <td>ofi\ofi_curl</td>
-    <td>ofi\ofi_curl merupakan sebuah package atau plugin php yang berguna supaya kita dapat dengan mudah mengirim data ke server dengan menggunakan berbagai macam HTTP Method seperti GET POST PUT DELETE, silahkan lihat disini untuk informasi selengkapnya https://github.com/teguh02/ofi_ofi_curl</td>
+    <td>ofi/ofi_curl</td>
+    <td>ofi/ofi_curl merupakan sebuah package atau plugin php yang berguna supaya kita dapat dengan mudah mengirim data ke server dengan menggunakan berbagai macam HTTP Method seperti GET POST PUT DELETE, silahkan lihat disini untuk informasi selengkapnya https://github.com/teguh02/ofi_ofi_curl</td>
   </tr>
 </table>
               
