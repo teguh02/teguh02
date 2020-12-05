@@ -100,6 +100,12 @@
     <td>ofi/deteksinohpindonesia</td>
     <td>ofi/deteksinohpindonesia merupakan sebuah package atau plugin php yang berguna untuk mendeteksi jenis operator berdasarkan nomor hp yang diinputkan, ofi/deteksinohpindonesia bisa diakses disini https://github.com/teguh02/deteksinohpindonesia</td>
   </tr>
+  
+  <tr>
+    <td>7</td>
+    <td>ofi/mobilepulsa</td>
+    <td>ofi/mobilepulsa merupakan sebuah package atau plugin php yang berguna supaya kita dapat dengan mudah mengkonsumsi API dari developer.mobilepulsa.net itu sendiri, ofi/mobilepulsa bisa diakses disini https://github.com/teguh02/mobilePulsanet-Sdk</td>
+  </tr>
 </table>
               
 <hr>
@@ -138,6 +144,7 @@
 <li>Sweet Alert</li>
 <li>Figma</li>
 <li>Canva</li>
+<li>Membuat package dengan php & composer</li>
 </ul>
 
 <hr>
