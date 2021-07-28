@@ -20,7 +20,7 @@
  
   <tr>
   <td>Deskripsi SIngkat </td>
-  <td>Saya seorang fullstack developer dengan menggunakan laravel maupum framework buatan saya sendiri, bernama OFI PHP Framework sebagai backend, dan menggunakan jquery, vue js sebagai frontend</td>
+  <td>Saya seorang fullstack developer dengan menggunakan laravel sebagai backend, dan menggunakan jquery, vue js sebagai frontend</td>
  </tr>
  
  
@@ -28,8 +28,7 @@
   <td>List Hak Cipta </td>
   <td>
     <ol>
-      <li> <a href="https://drive.google.com/file/d/16akhOx4oLT0aNsRM-tx9lr5ecLmw8DVU/view?usp=sharing">Sertifikat_EC00202017402</a> </li>
-      <li> <a href="https://drive.google.com/file/d/1WM56dQwPXdUa5Yvsc_jsovcBvvh_IjN7/view?usp=sharing">sertifikat_EC00202037924</a> </li>
+      <li> - </li>
      </ol>
   </td>
  </tr>
