@@ -32,6 +32,20 @@
      </ol>
   </td>
  </tr>
+  
+  <tr>
+  <td>Link Penting </td>
+  <td>
+    <ol>
+      <li> My Private git : <a href="https://gitguh.com">gitguh.com</a> </li>
+      <li> Me on play store : <a href="https://play.google.com/store/apps/dev?id=6231489043961029514">Inyonghost Studio</a> </li>
+      <li> Me on packagist : <a href="https://packagist.org/packages/ofi/">Packages from ofi</a> </li>
+      <li> Pay / donate to me : <a href="https://user-images.githubusercontent.com/43981051/127442879-4daf69eb-d351-4d67-87b7-dd37deec3b39.jpg">click here</a> </li>
+     </ol>
+  </td>
+ </tr>
+  
+  
 <table>
   
 <hr>
