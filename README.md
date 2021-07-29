@@ -17,6 +17,12 @@
   <td>Email </td>
   <td>teguhrijanandi02@gmail.com </td>
  </tr>
+  
+  
+  <tr>
+  <td>Instagram </td>
+    <td> <a href="https://www.instagram.com/teguh.rijanandi/">@teguh.rijanandi </a> </td>
+ </tr>
  
  
   <tr>
