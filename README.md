@@ -1,6 +1,4 @@
 <!-- ![Banner githubku](https://user-images.githubusercontent.com/43981051/97528783-1aa09680-19e1-11eb-8d65-1106590e1c05.png) -->
-
-### Teguh Rijanandi
 ### Profil Saya
 <table style="width: 100%">
 <tr>
@@ -34,9 +32,7 @@
   <tr>
   <td>List Hak Cipta </td>
   <td>
-    <ol>
-      <li> - </li>
-     </ol>
+    Silahkan lihat <a href="https://drive.google.com/drive/folders/1A1jX-hFdF8hY5g_Nm_U4WtdL4IWGRPzX?usp=sharing">disini</a>
   </td>
  </tr>
   
