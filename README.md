@@ -30,8 +30,8 @@
  
  
   <tr>
-  <td>Deskripsi SIngkat </td>
-  <td>Saya seorang fullstack developer dengan menggunakan laravel sebagai backend, dan menggunakan vue js sebagai frontend. Saya juga terbiasa dengan Job Server Administrator yang mengelola server secara keseluruhan (root). Silahkan lihat detail saya pada Cv saya</td>
+  <td>Deskripsi Singkat </td>
+  <td>Saya seorang Software Engineer fullstack developer dengan menggunakan laravel sebagai backend, dan menggunakan vue js sebagai frontend. Saya juga terbiasa dengan Job Server Administrator yang mengelola server secara keseluruhan (root). Silahkan lihat detail saya pada Cv saya</td>
  </tr>
  
  
