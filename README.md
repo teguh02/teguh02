@@ -10,6 +10,12 @@
   <td>Asal </td>
   <td>Purwokerto Banyumas </td>
  </tr>
+  
+  
+  <tr>
+  <td>Agama </td>
+  <td>Islam </td>
+ </tr>
  
   <tr>
   <td>Email </td>
