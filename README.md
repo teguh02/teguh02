@@ -33,21 +33,14 @@
   <td>Deskripsi Singkat </td>
   <td>Saya seorang Software Engineer fullstack developer dengan menggunakan laravel sebagai backend, dan menggunakan vue js sebagai frontend. Saya juga terbiasa dengan Job Server Administrator yang mengelola server secara keseluruhan (root). Silahkan lihat detail saya pada Cv saya</td>
  </tr>
- 
- 
-  <tr>
-  <td>List Hak Cipta </td>
-  <td>
-    Silahkan lihat <a href="https://drive.google.com/drive/folders/1A1jX-hFdF8hY5g_Nm_U4WtdL4IWGRPzX?usp=sharing">disini</a>
-  </td>
- </tr>
+
   
   <tr>
   <td>Link Penting </td>
   <td>
     <ol>
       <li> My Cv : <a href="https://www.canva.com/design/DAEtsdPUuyA/vFRQ0Ga9rHEOv-OrIJoewA/view?utm_content=DAEtsdPUuyA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">lihat disini</a> </li>
-      <li> My Private git : <a href="https://gitguh.com">gitguh.com</a> </li>
+      <li> My Linkedin : <a href="https://www.linkedin.com/in/teguhrijanandi/">here</a> </li>
       <li> Me on scholar: <a href="https://scholar.google.com/citations?hl=id&user=uTo71-QAAAAJ">click here</a> </li>
      </ol>
   </td>
