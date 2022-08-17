@@ -1,58 +1,43 @@
-<!-- ![Banner githubku](https://user-images.githubusercontent.com/43981051/97528783-1aa09680-19e1-11eb-8d65-1106590e1c05.png) -->
-### Profil Saya
-<table style="width: 100%">
-<tr>
-  <td>Nama </td>
-  <td>Teguh Rijanandi </td>
- </tr>
-  
-  <tr>
-  <td>Asal </td>
-  <td>Purwokerto Banyumas </td>
- </tr>
-  
-  
-  <tr>
-  <td>Agama </td>
-  <td>Islam </td>
- </tr>
- 
-  <tr>
-  <td>Email </td>
-  <td>teguhrijanandi02@gmail.com </td>
- </tr>
-  
-  
-  <tr>
-  <td>Instagram </td>
-    <td> <a href="https://www.instagram.com/teguh.rijanandi/">@teguh.rijanandi </a> </td>
- </tr>
- 
- 
-  <tr>
-  <td>Deskripsi Singkat </td>
-  <td>Saya seorang Software Engineer fullstack developer dengan menggunakan laravel sebagai backend, dan menggunakan vue js sebagai frontend. Saya juga terbiasa dengan Job Server Administrator yang mengelola server secara keseluruhan (root). Silahkan lihat detail saya pada Cv saya</td>
- </tr>
+<h1 align="center">Hi 👋, I'm Teguh Rijanandi</h1>
+<h3 align="center">I'am a fullstack developer but i prefer in backend and frontend, currently i'am is a ungraduated software engineering bachelor at Telkom Institute of Technology Purwokerto</h3>
 
-  
-  <tr>
-  <td>Link Penting </td>
-  <td>
-    <ol>
-      <li> My Linkedin : <a href="https://www.linkedin.com/in/teguhrijanandi/">here</a> </li>
-      <li> Me on scholar: <a href="https://scholar.google.com/citations?hl=id&user=uTo71-QAAAAJ">click here</a> </li>
-     </ol>
-  </td>
- </tr>
-  
-  
-<table>
-   
-<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=teguh02&label=Profile%20views&color=0e75b6&style=flat" alt="teguh02" /> </p>
 
-### My Stats
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteguh02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teguh02" alt="teguh02" /></a> </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=teguh02&show_icons=true&theme=dark)
+- 🔭 I’m currently working on [Sentra Inovasi IT Telkom Purwokerto](https://inovasi.ittelkom-pwt.ac.id/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teguh02&langs_count=12)](https://github.com/teguh02)
+- 🌱 I’m currently learning **Laravel, Vue.js, Golang, React.js**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/teguhrijanandi/](https://www.linkedin.com/in/teguhrijanandi/)
+
+- 💬 Ask me about **Laravel**
+
+- 📫 How to reach me **teguh@rijanandi.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/teguhrijanandi/](https://www.linkedin.com/in/teguhrijanandi/)
+
+- ⚡ Fun fact **My hobby is write a code and make a great something**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/teguh-rijanandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="teguh-rijanandi" height="30" width="40" /></a>
+<a href="https://twitter.com/teguhnandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teguhnandi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/teguhrijanandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teguhrijanandi" height="30" width="40" /></a>
+<a href="https://kaggle.com/teguh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="teguh02" height="30" width="40" /></a>
+<a href="https://fb.com/teguhrijanandi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teguhrijanandi02" height="30" width="40" /></a>
+<a href="https://instagram.com/teguh.rijanandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teguh.rijanandi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/teguh rijanandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teguh rijanandi" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/teguhrijanandi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="teguhrijanandi" /></a></p><br><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teguh02&show_icons=true&locale=en&layout=compact" alt="teguh02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teguh02&show_icons=true&locale=en" alt="teguh02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teguh02&" alt="teguh02" /></p>
