@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teguh Rijanandi</h1>
-<h3 align="center">I'am a fullstack developer, currently i'am is a ungraduated software engineering bachelor at Telkom Institute of Technology Purwokerto</h3>
+<h3 align="center">I'am a fullstack developer, i'am is a graduated software engineering bachelor at Telkom Institute of Technology Purwokerto</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teguh02&label=Profile%20views&color=0e75b6&style=flat" alt="teguh02" /> </p>
 
