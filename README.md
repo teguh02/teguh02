@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teguh02" alt="teguh02" /></a> </p>
 
-- 🔭 I’m currently working on [Sentra Inovasi IT Telkom Purwokerto](https://inovasi.ittelkom-pwt.ac.id/)
+- 🔭 I’m currently working on [Bandung Technopark Telkom University](https://btp.telkomuniversity.ac.id/)
 
 - 🌱 I’m currently learning **Laravel, Vue.js, Golang, React.js**
 
